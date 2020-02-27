@@ -9,4 +9,5 @@ public interface UserService {
     List<UmsMember> getAllUser() ;
 
     List<UmsMemberReceiveAddress> getReceiveAddressByMemberId(String memberId);
+
 }
