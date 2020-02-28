@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.abc.mall</groupId>
-    <artifactId>mall-user-web</artifactId>
+    <artifactId>mall-manage-web</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>mall-user-web</name>
+    <name>mall-manage-web</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
@@ -30,8 +30,6 @@
             <artifactId>mall-web-util</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
-
-
     </dependencies>
 
     <build>
